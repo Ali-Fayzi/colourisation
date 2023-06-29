@@ -9,7 +9,7 @@ pip install -r requirements.txt
 #Usage
 To use the trained network to generate colorized images, run:
 ```
-python inference.py --weight_path ./weights/weight.pt --input_path ./images --output_path ./output --plot False
+python inference.py --weight_path ./weights/weight.pt --input_path ./images --output_path ./output --plot
 ```
 You can specify the path to the trained weights, the input directory containing grayscale images, the output directory to save colorized images, and whether or not to display the images.
 
