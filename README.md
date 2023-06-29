@@ -25,4 +25,4 @@ You can specify the path to the trained weights, the input directory containing 
 The network was trained on the COCO dataset using a customized dataloader that randomly selects only 0.1% of the actual image pixels for conditional colorization. Due to limited resources, the network was trained for only 2 epochs.
 
 # Acknowledgements
-This project was implemented by Ali Fayzi. Feel free to use and modify the code for your own purposes. If you have any questions or suggestions, please feel free to contact me.
+This project was implemented by [Ali Fayzi](https://www.linkedin.com/in/ali-fayzi-28433a138/). Feel free to use and modify the code for your own purposes. If you have any questions or suggestions, please feel free to contact me.
