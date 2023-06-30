@@ -1,5 +1,5 @@
-# Unet-based Conditional Image Colorization
-This project implements a neural network for image colorization using the popular Unet architecture. While Unet is typically used for image segmentation tasks, it can also be used for image reconstruction and colorization.
+# Unet-based Conditional Image Colourisation
+This project implements a neural network for image colourisation using the popular Unet architecture. While Unet is typically used for image segmentation tasks, it can also be used for image reconstruction and colourisation.
 
 # Installation
 To install the required packages, run:
